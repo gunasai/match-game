@@ -41,22 +41,3 @@ body {
 }
 
 
-.card:hover {
-	cursor: pointer;
-}
-
-footer {
-	text-align: center;
-	padding-top: 5.25rem;
-	color: rgb(74, 74, 74);
-}
-
-.fa-heart {
-	color: red;
-}
-
-footer p:hover {
-	font-weight: bold;
-	cursor: pointer;
-}
-
