@@ -40,4 +40,18 @@ body {
 	color: rgb(255, 255, 255);
 }
 
+.card:hover {
+	cursor: pointer;
+}
+
+footer {
+	text-align: center;
+	padding-top: 5.25rem;
+	color: rgb(74, 74, 74);
+}
+
+.fa-headphones {
+	color: red;
+}
+
 
